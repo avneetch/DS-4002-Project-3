@@ -32,9 +32,9 @@ Table of Contents
 
 ## References
 [#] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).
-[#] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).
+\n[#] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).
 
 
 ### Links to MI1 and MI2
 [MI1](https://docs.google.com/document/d/16KW47FVTcNRLVW94Ycd_IxVnLPN2BU77JGky71UFqJQ/edit?usp=share_link)
-\n[MI2](https://docs.google.com/document/d/1_ug_r5ILIBxlOvBHoCTClUHNrOUrktU2ir1bjQX7YkU/edit?usp=share_link)
+[MI2](https://docs.google.com/document/d/1_ug_r5ILIBxlOvBHoCTClUHNrOUrktU2ir1bjQX7YkU/edit?usp=share_link)
