@@ -10,3 +10,5 @@ Data Dictionary
 |CPI |The consumer price index published by the Bureau of Labor Statistics.    |Float        |
 |Nominal      |The price of gas in the year of the observation.  |Float      |
 |Real      |The price of gas in inflation-adjusted dollars for 2023 (e.g., 4.22).     |Float         |
+
+[Link to data](https://github.com/avneetch/DS-4002-Project-3/blob/3715b5e2e6df349ab240e39c4735fe80adb80e76/Data/real_gas.csv)
