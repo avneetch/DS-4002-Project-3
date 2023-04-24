@@ -36,6 +36,5 @@ Table of Contents
 
 
 ### Links to MI1 and MI2
-[MI1](https://docs.google.com/document/d/16KW47FVTcNRLVW94Ycd_IxVnLPN2BU77JGky71UFqJQ/edit?usp=share_link)  
-
+[MI1](https://docs.google.com/document/d/16KW47FVTcNRLVW94Ycd_IxVnLPN2BU77JGky71UFqJQ/edit?usp=share_link)
 [MI2](https://docs.google.com/document/d/1_ug_r5ILIBxlOvBHoCTClUHNrOUrktU2ir1bjQX7YkU/edit?usp=share_link)
