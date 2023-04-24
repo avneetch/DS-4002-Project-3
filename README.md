@@ -31,8 +31,8 @@ Table of Contents
 |Figure 2 Sample Digits | The model made an acceptable number of errors in a random sample of images.|
 
 ## References
-[#] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).
-'\n'[#] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).
+[#] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).   
+[#] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).  
 
 
 ### Links to MI1 and MI2
