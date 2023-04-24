@@ -9,5 +9,4 @@ Data Dictionary
 |Month |The date of gas price observation (e.g., March 2023).                             |Float        |
 |CPI |The consumer price index published by the Bureau of Labor Statistics.    |Float        |
 |Nominal      |The price of gas in the year of the observation.  |Float      |
-|Real      |The price of gas in inflation-adjusted dollars for 2023 (e.g., 4.22).
- |Float         |
+|Real      |The price of gas in inflation-adjusted dollars for 2023 (e.g., 4.22). |Float         |
