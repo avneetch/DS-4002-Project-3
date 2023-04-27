@@ -1,5 +1,5 @@
 # DS-4002-Project-3
-This project uses data containing the average retail motor gas price from 1976 - 2023 adjusted for inflation using the Consumer Price Index (CPI). 
+This project uses data containing the average retail motor gas price from 1976 - 2023 adjusted for inflation to assess whether or not prices are time-dependent. Data may be considered time-dependent, or seasonal, through a test for stationarity. 
 
 ## SRC
 ### Installing/Building Code
