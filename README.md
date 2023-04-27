@@ -27,9 +27,10 @@ Data Dictionary
 Table of Contents
 |Figure     |Key Takeaways| 
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|Figure 1 Model Accuracy                   | Optimal number of epochs is 30. |
-|Figure 1 Model Loss                  | Optimal number of epochs is 30. |
-|Figure 2 Sample Digits | The model made an acceptable number of errors in a random sample of images.|
+|Figure 1 Gas Price Prediction                   | RNN accurately predicted gas priices. |
+|Figure 2 Autocorrelation                  | Trend, not random |
+|Figure 3 Stationary Analysis | Cannot reject stationarity|
+|Figure 4 Price Rise/Decline | Likelihood of rise/decline fluctuates and hovers around 50%|
 
 ## References
 [#] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).   
