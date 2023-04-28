@@ -34,8 +34,8 @@ Table of Contents
 |Figure 4 Price Rise/Decline | Likelihood of rise/decline fluctuates and hovers around 50%|
 
 ## References
-[#] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).   
-[#] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).  
+[1] S. Girgin. "Python-based oil & gas price analysis." Medium.com. https://medium.com/pursuitnotes/python-based-oil-gas-price-analysis-1fe5e10a23b0. (accessed April 18, 2023).   
+[2] Jiwidi. "Time series forecasting with python." Github. https://github.com/jiwidi/time-series-forecasting-with-python/blob/master/time-series-forecasting-tutorial.ipynb. (accessed April 18, 2023).  
 
 
 ### Links to MI1 and MI2
