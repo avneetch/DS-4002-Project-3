@@ -3,11 +3,11 @@ This project uses data containing the average retail motor gas price from 1976 -
 
 ## SRC
 ### Installing/Building Code
-  We downloaded the data as a CSV from the U.S. Energy Information Administration. The dataset contained monthly average non-diesel retail motor gas price from 1976 - 2023, both as real (adjusted for inflation) and nominal values. Using the datetime module, we converted the dates from Month YYYY to YYYY-MM-DD format and created two separate columns containing the year as YYYY and the month as M.
+  We downloaded the data as a CSV from the U.S. Energy Information Administration. The dataset contained monthly average non-diesel retail motor gas price from 1976 - 2023, both as real (adjusted for inflation) and nominal values. Using the datetime module, we converted the dates from Month YYYY to YYYY-MM-DD format and created two separate columns containing the year as YYYY and the month as M [1].
 
 
 ### Usage of Code
-  We then imported adfuller from the statsmodels.tsa.stattools module to peform an augmented Dickey-Fuller test (ADF), which produced an ADF statistic, p-value, and set of critical values. After performing the ADF test, we imported matplotlib and tensorflow to produce a visual of the Dickey-Fuller test for stationarity. 
+  We then imported adfuller from the statsmodels.tsa.stattools module to peform an augmented Dickey-Fuller test (ADF), which produced an ADF statistic, p-value, and set of critical values [2]. After performing the ADF test, we imported matplotlib and tensorflow to produce a visual of the Dickey-Fuller test for stationarity. 
 
 ## Data
 Data Dictionary
