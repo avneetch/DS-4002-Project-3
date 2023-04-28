@@ -22,6 +22,7 @@ Data Dictionary
 
 
 ### Relevant notes about the Use of Data
+  The data only contains monthly averages as opposed to daily or weekly. This limits the ability to draw precise conclusions about gas price time-dependence. 
 
 ## Figures
 Table of Contents
